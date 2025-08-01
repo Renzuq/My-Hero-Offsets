@@ -14,3 +14,7 @@ _healthData = 0x530; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type
 _platform = 0x364; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=AHerovsPlayerState&member=_platform
 _buffParam = 0xca8; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerStateBattle&member=_buffParam
 _characterParam = 0x7f0; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=ACharacterBattle
+_actionRun_InitialSpeed = 0xDC;
+_actionRun_LastSpeed = 0xe0;
+_actionAirJump_MaxCount = 0x150;
+_plusUltraPoint = 0x8F8;
