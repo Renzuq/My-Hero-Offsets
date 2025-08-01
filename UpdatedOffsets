@@ -1,1 +1,16 @@
-uworld = 0x6896110;
+UWorld = 0x6896110;
+GameInstance = 0x180;
+LocalPlayers = 0x38;
+PlayerController = 0x30;
+LocalPlayer = 0x2a0; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerController&member=PLAYER
+RootComponent = 0x130; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=AActor&member=RootComponent
+GameState = 0x120; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=AGameModeBase&member=GameState
+PlayerArray = 0x238; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=AGameStateBase&member=PlayerArray
+PawnPrivate = 0x280;  https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerState&member=PawnPrivate
+PlayerNamePrivate = 0x300;  https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerState&member=PlayerNamePrivate
+PlayerStateFlags = 0x22A;   https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerState&member=bIsABot
+_teamId = 0x06A9;   https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=ACharacterBattle&member=_teamId
+_healthData = 0x530; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerStateBattle&member=_healthData
+_platform = 0x364; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=AHerovsPlayerState&member=_platform
+_buffParam = 0xca8; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=APlayerStateBattle&member=_buffParam
+_characterParam = 0x7f0; https://dumpspace.spuckwaffel.com/Games/?hash=6e458fcb&type=classes&idx=ACharacterBattle
